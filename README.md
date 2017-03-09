@@ -1,5 +1,5 @@
 Expert Model (XM) is fast algorithm to compress biological sequences. The source code
-implemenation in Java of the algorithm is part of the [Japsa package](https://github.com/mdcao/xm).
+implemenation in Java of the algorithm is part of the [Japsa package](https://github.com/mdcao/japsa).
 
 ### Installation and Usage
 Quick installation guide:
